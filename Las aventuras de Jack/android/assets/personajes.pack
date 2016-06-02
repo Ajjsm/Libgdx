@@ -1,0 +1,33 @@
+
+personajes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jack2
+  rotate: false
+  xy: 1, 29
+  size: 336, 32
+  orig: 336, 32
+  offset: 0, 0
+  index: -1
+jack
+  rotate: false
+  xy: 1, 11
+  size: 224, 16
+  orig: 224, 16
+  offset: 0, 0
+  index: -1
+verde
+  rotate: false
+  xy: 339, 37
+  size: 96, 24
+  orig: 96, 24
+  offset: 0, 0
+  index: -1
+marron
+  rotate: false
+  xy: 227, 11
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
