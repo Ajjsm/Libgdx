@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="369">
+ <tileset firstgid="1" name="Tiny Platform Quest Tiles_0" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="Tiny Platform Quest Tiles_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="prueba_tile" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
+ <tileset firstgid="1025" name="BG" tilewidth="16" tileheight="16" spacing="1" margin="1" tilecount="2552" columns="58">
+  <image source="freetileset/png/BG/BG.png" width="1000" height="750"/>
+ </tileset>
+ <layer name="fondo" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2XWUVdUCwOGRnDt0GKRBd2PQ3ViAGHQ3Bt2NQdqFhKRBd2PQ3RikAdIgbXysJ+vx7npIisMwf3zrzNrn1u/sc8++Z02GqCEhGRkdMyRkDGMZxyd8ymd8zngmMJFJTGYKU5nGdGYwk1nMZg5zmcd8FrCQRXzBl3zF1yxmCUtZxnJWsJJVrGYNa1nHejawkU1sZgtb2cZIRsWM7Irsiphd0X1nYxAgjJ3GdrGbPfzAj/zEz+xlH7+wnwMc5BCHOcJRjnGcXznBSU5xmjOc5Ry/8Tt/EBIaEnIHUYhKNKITg5iEEiCMWMQmDnGJR3wSkJBEJGa7190RM7IrsitidqXxnU1Lhr/W32TeKzkpSMm93Mf9PEAqUpOGtKQjPRnISCYyk4WsZCM7OchJLnKTh7w8yEM8zCPkIz8FKEghClOEohSjOCUoSSlKU4aylKM8FahIEpKGRnZFdkXMruD1t7KxKjxFVZ7mGZ7lOapRnRrUpBa1qUNd6lGfBjSkEY1pQlOa0ZwWtOR5XuBFXqIVrWlDW9rRng50pBOd6UJXutGdHvSkF73pQ1+epFJo+Ot6yrGuGvV/uy6MXdx1YexW6Yqo8xVeu4LX3wHGBjKIwbzOG7zJW7zNO7zLe7zPB3zIED5iKMMYzgg+ZiSjGM0YxjKOT/iUz/ic8UxgIpOYzBSmMo3pzGAms5jNHOYyj/ksYCGL6Ef/0BvT9Xf3LiMvMuqv7a3SFVHn63boCl5/lxpbxnJWsJJVrGYNa1nHejawkU1sZgtb2cY3fMt3fM92drCTXexmDz/wIz/xM3vZxy/s5wAHOcRhjnCUYxznV05wklOc5gxnOcdiloRef9eV3rvcal0Rdb5ul67g9TdqwP060YlBTEIJEEYsYhOHuMQjPglIGPjv773gbRL7kpKM5KQgJfdyH/fzAKlITRrSko70ZCAjmchMFrKSjezkICe5yE0e8nIHUQLX3xV873Kpzkttw2tXIhJzJ3dxN/cEwu98Xe4436pd1zpfwetvAWMFKURhilCUYhSnBCUpRWnKUJZylKcCFXmUx/7ueNtXlad5hmd5jmpUpwY1qUVt6lCXetSnAQ1pRGOa0JRmNKcFLclH/sD1dV3q3uWJ8/uoRGWqBP75rsudv9cyX1d6DQruCt5/pV3Bz/t/83W5z3K15+HjgZszX1d7Xb94e+Hvq+kKXn/bGGtLO9rTgY50ojNd6Eo3utODnvSiN33oy8u8wqu8Rj/6M4CBDGIwr/MGb/IWb/MO7/Ie71/BMfnYY0YyitGMYex1HsuLt/9U1wd8yBA+YijDGM6IwKW7xtGK1oHwOV+RXTevK6rzMxpDYvtMDGUYwxkR+9Ljsz13DnOZx3wWsJBFfMGXfMXXLGYJS1nGclawklWsZg1rWcd6NrCRTWxmC1vZxjd8y3d8z3Z2sJNd7GYP45nARCYxmSlMZRrTmcFMZgUiu25UV/A1MLx1Xe01PHi+gvf/W12pvHdq9vq7fyz367b7OcBBDnGYIxzlGMf5lROc5BSnOcNZzvEbv/MHIWF+/xOFqEQjOjGISSgBwohFbOIQl3jEJwEJSURi7uQu7uYekpCUZCQnBSnD/tO1L3B7dl3unLxVu65lvi51DMJ715VeX85/d89L473Sko70ZCAjmchMFrKSjezkICe5yE0e8vIgD/Ewj5CP/BSgIIXCLv+ZSntMGcpSjvJUoCKP8hiP8wRPUonKVDn/2lQlFanDbm5XYYpQlGIUpwQlKRUW2RXZdeO7qlGdGtSkFrWpQ13qUZ8GNKQRjWlCU5rRnBa05Hle4EVeohWtaUNb2tGeDnSkE53pQle60Z0e9KQXvelDX17mFV7lNfrRnwEMZBCDI0jXhf8pR7SuiDpf/0bXn9LUUTc=
+  </data>
+ </layer>
+ <layer name="graficos" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt1lEORDAUBVD8zMLYCXuerfgkkcmIEEUJdU5yf5poo/peZRnAu32LIQBLfn0iZr+Ym2tt/iPrp97rQt8v9X24Wuy64L6WvrUzAAAA3MEnP/78OPAWbf4PhNAj4yr7VJOx0JpUv8/lvyMNdZ9mMralfs/iTME+43t1LQBAHB34jy3w
+  </data>
+ </layer>
+ <objectgroup name="suelo">
+  <object id="286" x="0" y="16" width="32" height="174"/>
+  <object id="288" x="288" y="96" width="96" height="16"/>
+  <object id="289" x="352" y="112" width="96" height="16"/>
+  <object id="290" x="464" y="176" width="128" height="16"/>
+  <object id="291" x="624" y="128" width="128" height="16"/>
+  <object id="293" x="848" y="128" width="288" height="16"/>
+  <object id="294" x="1216" y="96" width="192" height="16"/>
+  <object id="295" x="1472" y="48" width="32" height="16"/>
+  <object id="297" x="1552" y="48" width="32" height="16"/>
+  <object id="298" x="1632" y="48" width="32" height="16"/>
+  <object id="299" x="1696" y="112" width="128" height="16"/>
+  <object id="300" x="1872" y="160" width="128" height="16"/>
+  <object id="301" x="2032" y="112" width="160" height="16"/>
+  <object id="302" x="2256" y="112" width="64" height="16"/>
+  <object id="303" x="2368" y="144" width="64" height="16"/>
+  <object id="304" x="2480" y="112" width="64" height="16"/>
+  <object id="306" x="2624" y="112" width="128" height="16"/>
+  <object id="307" x="2720" y="96" width="128" height="16"/>
+  <object id="308" x="2944" y="160" width="96" height="16"/>
+  <object id="309" x="3008" y="144" width="192" height="16"/>
+  <object id="310" x="3264" y="144" width="64" height="16"/>
+  <object id="311" x="3360" y="112" width="272" height="16"/>
+  <object id="312" x="3680" y="160" width="160" height="16"/>
+  <object id="313" x="3808" y="0" width="32" height="128"/>
+  <object id="366" x="32" y="176" width="128" height="16"/>
+  <object id="367" x="160" y="128" width="16" height="64"/>
+  <object id="368" x="176" y="128" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="pinchos">
+  <object id="314" x="0" y="192" width="1056" height="16"/>
+  <object id="315" x="1056" y="192" width="1200" height="16"/>
+  <object id="317" x="2256" y="192" width="1216" height="16"/>
+  <object id="318" x="3472" y="192" width="368" height="16"/>
+  <object id="356" x="528" y="160" width="16" height="16"/>
+  <object id="357" x="688" y="112" width="16" height="16"/>
+  <object id="358" x="944" y="112" width="64" height="16"/>
+  <object id="359" x="1936" y="144" width="64" height="16"/>
+  <object id="360" x="2416" y="128" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="rojos">
+  <properties>
+   <property name="moneda" value="recoger"/>
+  </properties>
+  <object id="281" x="1328" y="80" width="16" height="16"/>
+  <object id="284" x="3488" y="96" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="ladrillos">
+  <object id="326" x="3584" y="32" width="16" height="16"/>
+  <object id="327" x="3568" y="32" width="16" height="16"/>
+  <object id="328" x="3408" y="32" width="16" height="16"/>
+  <object id="329" x="3424" y="32" width="16" height="16"/>
+  <object id="330" x="3136" y="48" width="16" height="16"/>
+  <object id="331" x="3152" y="48" width="16" height="16"/>
+  <object id="332" x="3168" y="48" width="16" height="16"/>
+  <object id="333" x="3040" y="48" width="16" height="16"/>
+  <object id="334" x="3056" y="48" width="16" height="16"/>
+  <object id="335" x="3072" y="48" width="16" height="16"/>
+  <object id="336" x="2512" y="32" width="16" height="16"/>
+  <object id="337" x="2528" y="32" width="16" height="16"/>
+  <object id="338" x="2272" y="32" width="16" height="16"/>
+  <object id="339" x="2288" y="32" width="16" height="16"/>
+  <object id="340" x="2160" y="32" width="16" height="16"/>
+  <object id="341" x="2144" y="32" width="16" height="16"/>
+  <object id="342" x="2080" y="32" width="16" height="16"/>
+  <object id="343" x="2064" y="32" width="16" height="16"/>
+  <object id="344" x="1776" y="32" width="16" height="16"/>
+  <object id="345" x="1760" y="32" width="16" height="16"/>
+  <object id="347" x="1744" y="32" width="16" height="16"/>
+  <object id="348" x="1728" y="32" width="16" height="16"/>
+  <object id="349" x="1328" y="16" width="16" height="16"/>
+  <object id="350" x="1312" y="16" width="16" height="16"/>
+  <object id="351" x="1104" y="48" width="16" height="16"/>
+  <object id="352" x="1088" y="48" width="16" height="16"/>
+  <object id="355" x="1072" y="48" width="16" height="16"/>
+ </objectgroup>
+ <layer name="arboles" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAC+BjDAAAE=
+  </data>
+ </layer>
+ <layer name="final" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAC+BjDAAAE=
+  </data>
+ </layer>
+ <objectgroup name="muro_malo">
+  <object id="267" x="848" y="112" width="16" height="16"/>
+  <object id="268" x="1120" y="112" width="16" height="16"/>
+  <object id="270" x="1216" y="80" width="16" height="16"/>
+  <object id="271" x="1392" y="80" width="16" height="16"/>
+  <object id="272" x="2032" y="96" width="16" height="16"/>
+  <object id="273" x="2176" y="96" width="16" height="16"/>
+  <object id="275" x="3008" y="128" width="16" height="16"/>
+  <object id="277" x="3184" y="128" width="16" height="16"/>
+  <object id="278" x="3360" y="96" width="16" height="16"/>
+  <object id="279" x="3616" y="96" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="marrones">
+  <object id="282" x="2112" y="96" width="16" height="16"/>
+  <object id="283" x="3104" y="128" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="objeto_final">
+  <object id="285" x="3808" y="128" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="verdes">
+  <object id="280" x="1024" y="112" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="final_juego"/>
+</map>

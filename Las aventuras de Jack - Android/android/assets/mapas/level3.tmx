@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="308">
+ <tileset firstgid="1" name="Tiny Platform Quest Tiles_0" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="Tiny Platform Quest Tiles_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="1025" name="gameboy-map-haunted-forest" tilewidth="16" tileheight="16" spacing="1" margin="1" tilecount="2775" columns="75">
+  <image source="gameboy-map-haunted-forest.png" width="1280" height="640"/>
+  <terraintypes>
+   <terrain name="Nuevo Terreno" tile="-1"/>
+  </terraintypes>
+ </tileset>
+ <layer name="fondo" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztzrENACAMBLFPBfsvCWPADDQpsKXrLwEAAAAAAACAd+u2uyeAJ6OSWd0XAAAA/OIANjgB4Q==
+  </data>
+ </layer>
+ <layer name="graficos" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <objectgroup name="suelo">
+  <object id="36" x="0" y="192" width="240" height="16"/>
+  <object id="37" x="272" y="192" width="608" height="16"/>
+  <object id="39" x="912" y="192" width="688" height="16"/>
+  <object id="41" x="1648" y="192" width="816" height="16"/>
+  <object id="44" x="2496" y="192" width="688" height="16"/>
+  <object id="45" x="3200" y="192" width="384" height="16"/>
+  <object id="46" x="3616" y="192" width="224" height="16"/>
+  <object id="269" x="0" y="0" width="16" height="192"/>
+  <object id="270" x="208" y="128" width="112" height="80"/>
+  <object id="271" x="416" y="160" width="240" height="48"/>
+  <object id="273" x="672" y="186" width="112" height="22"/>
+  <object id="274" x="416" y="153.333" width="240" height="54.6667"/>
+  <object id="275" x="832" y="168.667" width="240" height="39.3333"/>
+  <object id="276" x="1152" y="144" width="32" height="64"/>
+  <object id="277" x="1152" y="136.667" width="32" height="71.3333"/>
+  <object id="278" x="1248" y="109.333" width="124" height="98.6667"/>
+  <object id="279" x="1376" y="160" width="128" height="48"/>
+  <object id="280" x="1488" y="125.333" width="56.6667" height="82.6667"/>
+  <object id="282" x="1616" y="48" width="112" height="112"/>
+  <object id="283" x="1728" y="121.333" width="224" height="86.6667"/>
+  <object id="304" x="1920" y="0" width="48" height="96"/>
+  <object id="305" x="1952" y="96" width="32" height="128"/>
+  <object id="306" x="1936" y="96" width="32" height="48"/>
+ </objectgroup>
+ <objectgroup name="pinchos">
+  <object id="236" x="3184" y="200" width="16" height="16"/>
+  <object id="237" x="3584" y="200.667" width="32" height="16"/>
+  <object id="238" x="2463.33" y="200.667" width="32" height="16"/>
+  <object id="239" x="1598.67" y="200.667" width="48" height="16"/>
+  <object id="240" x="879.333" y="201.333" width="32" height="16"/>
+  <object id="241" x="239.333" y="200" width="32" height="16"/>
+  <object id="299" x="288" y="112" width="32" height="16"/>
+  <object id="300" x="672.667" y="170.667" width="30" height="16"/>
+  <object id="301" x="464" y="140" width="28.6667" height="17.3333"/>
+  <object id="302" x="577.333" y="144" width="28.6667" height="17.3333"/>
+  <object id="307" x="1648" y="32" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="rojos">
+  <properties>
+   <property name="moneda" value="recoger"/>
+  </properties>
+  <object id="294" x="944.667" y="152" width="16" height="16"/>
+  <object id="297" x="1300.67" y="92" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="ladrillos"/>
+ <layer name="arboles" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt17ENgDAMRUFLGQAWgBVgAdh/LNyjpIiQoqC79jduXuEIAAAAAAAA+N5WIvYy+gqgx5Xt3vqF31uy87XSemsDxjuyz7PSaGsD5uS/hnn5r+HtARYZApk=
+  </data>
+ </layer>
+ <layer name="final" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEJgEAQBMCDr0M70ea0Ey3UT4weHvGDE5yByzdZLtgIAABuU4mYS3YK4I2ldnfVXwAAAACAx3q7iM0Evq23i9hMoLXV27NDDPCX+bOj3pkdYoC/DK0LgXIFVw==
+  </data>
+ </layer>
+ <objectgroup name="muro_malo">
+  <object id="289" x="417.333" y="135.333" width="16" height="16"/>
+  <object id="290" x="641.333" y="135.333" width="16" height="16"/>
+  <object id="292" x="832.667" y="150.667" width="16" height="16"/>
+  <object id="293" x="1056.67" y="152.667" width="16" height="16"/>
+  <object id="295" x="1248" y="93.3333" width="16" height="16"/>
+  <object id="296" x="1355.33" y="92.6667" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="marrones"/>
+ <objectgroup name="objeto_final"/>
+ <objectgroup name="verdes">
+  <object id="291" x="532" y="135.333" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="final_juego">
+  <object id="303" x="1920" y="96" width="16" height="32"/>
+ </objectgroup>
+</map>
